@@ -2,7 +2,7 @@ U.S. States Guessing Game
 
 An interactive Python game built using Turtle Graphics and Pandas, where players guess all 50 U.S. states and see them appear on the map in real time.
 
-This project is part of Day 25 from Angela Yu's 100 Days of Code – Python Bootcamp.
+This project is part of Day 24 from Angela Yu's 100 Days of Code – Python Bootcamp.
 
 📌 Features
 
